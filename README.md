@@ -2,7 +2,7 @@
 
 This repository contains codes of deep deducing visualizing class saliency by optimizing input image by using gradient descent provided by error backpropagation.
 To reproduce the results in the paper, simply run Deducing.py
-
+The MNIST database is available at http://yann.lecun.com/exdb/mnist/
 
 ## Requirements
 
